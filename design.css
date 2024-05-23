@@ -1,0 +1,40 @@
+.flexContainer {
+    	display:flex;
+    	flex-direction: column;
+	background-color: orange; 
+}
+
+.flexBox {
+	margin: 20px;
+	padding: 20px;
+	border-radius: 5px;
+	
+}
+
+#a {
+    
+   	background-color:#bb7ad3;
+  }
+
+#b {
+    	background-color:#81cced;
+  }
+
+#c {
+    	background-color:#b3e988;
+  }
+
+  /* Schrift */ 
+
+h2, p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+p {
+  font-size: 15px;
+}
