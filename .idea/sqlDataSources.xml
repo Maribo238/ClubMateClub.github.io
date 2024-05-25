@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="385a0aae-1292-4a74-b585-6ae15004a6dc" name="clubMateClub@devcluster.srtfo66.mongodb.net Mapping">
+      <data-sources db="74c585fb-7c49-41a0-b85b-503da6476b8d" />
+      <scope>
+        <node kind="database" negative="1" />
+      </scope>
+    </mapping>
+  </component>
+</project>
